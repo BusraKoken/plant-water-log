@@ -1,0 +1,83 @@
+{ "plants":
+{
+	"ficus-luisa" : {
+		"water-amount-ml": 100,
+		"regular-day": 7,
+		"fertilize-day": 45,
+		"species": "ficus benjamina"
+	},
+	"ficus-benjamin": {
+		"water-amount-ml": 100,
+		"regular-day": 7,
+		"fertilize-day": 45,
+		"species": "ficus benjamina"
+	},
+	"red-maple": {
+		"water-amount-ml": 80,
+		"regular-day": 7,
+		"fertilize-day": 7,
+		"species": "japanese maple"
+	},
+	"dying-orchid": {
+		"water-amount-ml": 100,
+		"regular-day": 7,
+		"fertilize-day": 7,
+		"species": "orchid"
+	},
+	"prayer-plant": {
+		"water-amount-ml": 50,
+		"regular-day": 7,
+		"fertilizer": 14,
+		"species": "prayer plant"
+	},
+	"hungarian-plant": {
+		"water-amount-ml": 100,
+		"regular-day": 14,
+		"species": "zanzibar gem"
+	},
+	"jungle-fit-fashion": {
+		"water-amount-ml": 100,
+		"regular-day": 7,
+		"fertilize-day": 30,
+		"species": "parlour palm"
+	},
+	"moody-spiky": {
+		"water-amount-ml": 100,
+		"regular-day": 14,
+		"fertilize-day": 150,
+		"species": "madagascar dragon tree"
+	},
+	"spider-woman": {
+		"water-amount-ml": 100,
+		"regular-day": 7,
+		"fertilize-day": 60,
+		"species": "spider plant"
+	},
+	"indoor-blonde-bush": {
+		"water-amount-ml": 80,
+		"regular-day": 7,
+		"species": "evergreen spindle"
+	},
+	"needy-kitchen-lovesister": {
+		"water-amount-ml": 50,
+		"regular-day": 7,
+		"fertilize-day": 30,
+		"species": "flaming katy"
+	},
+	"lonely-bathroom-dude": {
+		"water-amount-ml": 30,
+		"regular-day": 14,
+		"species": "todo"
+	},
+	"adopted-tree": {
+		"water-amount-ml": 100,
+		"regular-day": 7,
+		"species": "todo"
+	},
+	"standing-moss-forest": {
+		"water-amount-ml": 100,
+		"regular-day": 7,
+		"species": "todo"
+	}
+  }
+}
